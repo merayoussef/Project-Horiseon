@@ -48,9 +48,10 @@ p {
     font-size: 16px;
 }
 
+/* apply style to web content */
 .hero {
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom:25px;
     background-size: cover;
     background-position: center;
 }
@@ -125,6 +126,7 @@ p {
     color: #ffffff;
 }
 
+/* spply style to benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -184,6 +186,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* apply style to footer */
 
 .footer {
     padding: 30px;

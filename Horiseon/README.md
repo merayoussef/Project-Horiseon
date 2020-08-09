@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-The purpose of this project is to make the home page better accessibility for a better optimization for search engines.
+The purpose of this project is to make the home page accessibility easier to navigate for a better optimization for search engines. Also, to organize the code structure.
 
 Follow these guidelines:
 GIVEN a webpage meets accessibility standards
